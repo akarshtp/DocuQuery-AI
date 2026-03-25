@@ -1,0 +1,12 @@
+# Virtual Environment
+env/
+venv/
+
+# AI/Data specific
+faiss_index/
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
