@@ -11,7 +11,7 @@
 * **Scalable Vector Search**: Powered by FAISS (Facebook AI Similarity Search) for millisecond retrieval.
 * **Modern UI**: A clean, intuitive interface built with Streamlit.
 
-## 🛠️ Technical Architecture
+##  Technical Architecture
 
 1.  **Ingestion**: PDFs are parsed using `PyPDF2`.
 2.  **Chunking**: Text is split into segments using `RecursiveCharacterTextSplitter`.
